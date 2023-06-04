@@ -1,1 +1,8 @@
-{"tiempoEjecucion":"1.04:23:50.7122858","solicitudesTotales":561,"solicitudesExitosas":544,"solicitudesFallidas":9,"solicitudesOmitidas":8,"solicitudesSinNumeracionDian":0}
+{
+  "tiempoEjecucion": "1.04:42:20.5584449",
+  "solicitudesTotales": 653,
+  "solicitudesExitosas": 635,
+  "solicitudesFallidas": 9,
+  "solicitudesOmitidas": 9,
+  "solicitudesSinNumeracionDian": 0
+}
