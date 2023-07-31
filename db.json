@@ -1,7 +1,22 @@
-{
-  "solicitudesTotales": 653,
-  "solicitudesExitosas": 635,
-  "solicitudesFallidas": 9,
-  "solicitudesOmitidas": 9,
-  "solicitudesSinNumeracionDian": 0
-}
+ [
+    {
+      "codigo": "BAQ",
+      "descripcion": "BARRANQUILLA",
+      "departamento": "ATLANTICO"
+    },
+    {
+      "codigo": "BOG",
+      "descripcion": "BOGOTA",
+      "departamento": "CUNDINAMARCA"
+    },
+    {
+      "codigo": "MED",
+      "descripcion": "MEDELLIN",
+      "departamento": "ANTIOQUIA"
+    },
+    {
+      "codigo": "CAL",
+      "descripcion": "CALI",
+      "departamento": "VALLE"
+    }
+  ]
