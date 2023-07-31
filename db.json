@@ -1,22 +1,25 @@
- {"ciudad":[
-    {
-      "codigo": "BAQ",
-      "descripcion": "BARRANQUILLA",
-      "departamento": "ATLANTICO"
-    },
-    {
-      "codigo": "BOG",
-      "descripcion": "BOGOTA",
-      "departamento": "CUNDINAMARCA"
-    },
-    {
-      "codigo": "MED",
-      "descripcion": "MEDELLIN",
-      "departamento": "ANTIOQUIA"
-    },
-    {
-      "codigo": "CAL",
-      "descripcion": "CALI",
-      "departamento": "VALLE"
-    }
-  ]}
+ {
+     "ciudad":[
+        {
+          "codigo": "BAQ",
+          "descripcion": "BARRANQUILLA",
+          "departamento": "ATLANTICO"
+        },
+        {
+          "codigo": "BOG",
+          "descripcion": "BOGOTA",
+          "departamento": "CUNDINAMARCA"
+        },
+        {
+          "codigo": "MED",
+          "descripcion": "MEDELLIN",
+          "departamento": "ANTIOQUIA"
+        },
+        {
+          "codigo": "CAL",
+          "descripcion": "CALI",
+          "departamento": "VALLE"
+        }
+    ]
+ }
+  
